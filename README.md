@@ -1,6 +1,8 @@
 # QFNU-ics
 曲阜师范大学课表自动生成，支持一键导入，兼容各种日历APP 
 
+![](/doc/images/preview.png)
+
 > 膜拜无敌的MoveToEx神犇
 
 # 功能
@@ -22,11 +24,15 @@
 
 3. 在项目目录中运行`python main.py`
 
-4. 因为提交的表单中有一个叫sjmsValue的数据作用未知，如果无法正常运行，你可以打开教务管理系统界面，打开开发者工具，按Ctrl+F5重载页面。
+4. 因为提交的表单中有一个叫sjmsValue的数据作用未知，**如果无法正常运行**，你可以打开教务管理系统界面，打开开发者工具，按Ctrl+F5重载页面。
 
 之后找到网络一栏
 
+![](/doc/images/fucksjms1.png)
+
 在里面找到main_index_loadkb.jsp，右键复制POST，复制POST中的sjmsValue值并输入
+
+![](/doc/images/fucksjms2.png)
 
 5. 此时目录中将会生成`output.ics`，该文件即为生成的ics文件
 
