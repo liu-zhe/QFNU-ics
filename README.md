@@ -3,7 +3,7 @@
 
 ![](/doc/images/preview.png)
 
-> 膜拜无敌的MoveToEx神犇
+> 暴打弱弱的MoveToEx菜鸡
 
 # 功能
 
@@ -83,5 +83,5 @@ iOS 日历导入方式较为繁琐，他人曾使用两种方式成功导入，�
 
 > 本人是个大一菜鸡，就读于软件工程，刚学编程，不要喷我QAQ
 
-> 项目灵感来源于[FJNU-ics](https://github.com/payphone-x/FJNU-ics)，多谢MoveToEx大佬的指导
+> 项目灵感来源于[FJNU-ics](https://github.com/payphone-x/FJNU-ics)，多谢MoveToEx菜鸡的信心提供
 
