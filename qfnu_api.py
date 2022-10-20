@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-import re
 import requests
 from time import sleep
 
@@ -55,7 +54,7 @@ class QFNUApi:
                 this.begin.append(class_time.split("-")[0])
                 this.end.append(class_time.split("-").pop())
 
-            # # content[len(content)-1] = content[len(content)-1].replace('</p>', '')
-            # # content[len(content)-1] = content[len(content)-1].replace('\">', ' ')
+            # content[len(content)-1] = content[len(content)-1].replace('</p>', '')
+            # content[len(content)-1] = content[len(content)-1].replace('\">', ' ')
             # for i in range(0, len(content), 1):
             #     print(content[i])
