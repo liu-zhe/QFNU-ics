@@ -91,7 +91,7 @@ for i in range(1, 366, 1):
         if (account.name[j] not in vis):
             e = ics.Event()
             e.name = account.name[j]
-            e.location = account.location[j]
+            e.location = "曲阜师范大学" + account.location[j][5:]
             e.description = account.info[j]
 
             # 夏季作息时间特判

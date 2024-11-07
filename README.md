@@ -1,7 +1,7 @@
 # QFNU-ics
 曲阜师范大学课表自动生成，支持一键导入，兼容各种日历APP 
 
-![](/doc/images/preview.png)
+![preview.png](https://s2.loli.net/2024/11/07/9pAMsXE7HzcwQZP.png)
 
 > 膜拜MoveToEx
 # 功能
